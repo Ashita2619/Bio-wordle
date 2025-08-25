@@ -1,4 +1,4 @@
-🧬 BioWordle: A Wordle Game for Bioinformatics Buffs
+# 🧬 BioWordle: A Wordle Game for Bioinformatics Buffs
 BioWordle is a twist on the classic Wordle game, designed specifically for scientists, students, and enthusiasts in the fields of biology and bioinformatics. Instead of everyday vocabulary, players guess words drawn from the rich and complex language of life sciences—think gene names, lab techniques, molecular terms, and more.
 
 🔬 Features
