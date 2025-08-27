@@ -12,3 +12,5 @@ BioWordle is a twist on the classic Wordle game, designed specifically for scien
 
 🚀 Why BioWordle?
 Whether you're brushing up on your terminology or just want a nerdy break between experiments, BioWordle keeps your mind sharp and your science vocabulary sharper.
+
+Just Run python app.py in your terminal and boom you can start playing.
